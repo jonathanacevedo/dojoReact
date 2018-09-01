@@ -91,4 +91,4 @@ class Pokemon extends Component {
     }
 }
 
-export default Pokemon;
+export default Pokemon

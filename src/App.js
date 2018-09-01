@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Pokemon } from './Pokemon.js';
+import Pokemon from './Pokemon.js';
 
 class App extends Component {
   constructor(props){
